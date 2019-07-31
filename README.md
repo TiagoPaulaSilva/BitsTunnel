@@ -15,3 +15,6 @@ BitsTunnel it's an IoT gateway, providing bluetooth connection for IoT devices a
 ##### Messaging Protocol  / [MQTT](http://mqtt.org/)
 
 ##### MQTT Broker / [Mosquitto](https://mosquitto.org/)
+
+## Schematic
+![enter image description here](https://lh3.googleusercontent.com/hJ0v9MZLnaVbUsG3Rgy-yUE1y9tMdhj8AJEgEyrT6WjEENklfdBFy-YyLo4Zl98tJLXYvht3V_p8dQ=s2000 "BitsTunnel")

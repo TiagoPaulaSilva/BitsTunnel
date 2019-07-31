@@ -14111,8 +14111,7 @@ ENABLER</text>
 <wire x1="145.415" y1="4.445" x2="145.415" y2="147.32" width="0.254" layer="152" style="longdash"/>
 <wire x1="145.415" y1="4.445" x2="283.21" y2="4.445" width="0.254" layer="152" style="longdash"/>
 <wire x1="283.21" y1="4.445" x2="283.21" y2="147.32" width="0.254" layer="152" style="longdash"/>
-<text x="204.47" y="141.605" size="2.54" layer="152" ratio="5">ADC TO I2C</text>
-<text x="188.595" y="137.795" size="2.032" layer="152">(Power Supply &amp; Battery Status Monitoring)</text>
+<text x="177.165" y="142.24" size="2.54" layer="152" ratio="5">POWER SUPPLY &amp; BATTERY STATUS MONITOR</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>

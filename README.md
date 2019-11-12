@@ -18,3 +18,13 @@ BitsTunnel is an IoT gateway, providing bluetooth connection for IoT devices and
 
 ## Schematic
 ![enter image description here](https://lh3.googleusercontent.com/hJ0v9MZLnaVbUsG3Rgy-yUE1y9tMdhj8AJEgEyrT6WjEENklfdBFy-YyLo4Zl98tJLXYvht3V_p8dQ=s2000 "BitsTunnel")
+
+### Contributing
+0. Give this project a :star:
+1. Create an issue and describe your idea
+2. [Fork it](https://github.com/TiagoPaulaSilva/BitsTunnel/fork)
+3. Create your feature branch (`git checkout -b my-new-feature`)
+4. Commit your changes (`git commit -am 'Add some feature'`)
+5. Publish the branch (`git push origin my-new-feature`)
+6. Create a new pull request
+7. Done! :heavy_check_mark:

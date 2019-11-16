@@ -17,7 +17,8 @@ BitsTunnel is an IoT gateway, providing bluetooth connection for IoT devices and
 ##### MQTT Broker / [Mosquitto](https://mosquitto.org/)
 
 ## Schematic
-![enter image description here](https://lh3.googleusercontent.com/hJ0v9MZLnaVbUsG3Rgy-yUE1y9tMdhj8AJEgEyrT6WjEENklfdBFy-YyLo4Zl98tJLXYvht3V_p8dQ=s2000 "BitsTunnel")
+<img src="https://github.com/TiagoPaulaSilva/BitsTunnel/blob/master/Others/Schematic%20Preview.png" width="100%" height="100%">
+
 
 ### Contributing
 0. Give this project a :star:
